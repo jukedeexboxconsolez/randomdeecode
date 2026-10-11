@@ -5,9 +5,9 @@ public class booljava {
 
       int x = 10;
       
-      boolean z = true;
+      Boolean z = true;
       
-      boolean v = false; 
+      Boolean v = false; 
       
       System.out.print(z);
       System.out.print(v);
